@@ -1,5 +1,5 @@
 # suoNO-NOn-statico
-A repository of approaches to realizing the live electronics in the Luigi Nono's works.
+A repository of approaches to realizing the live electronics in Luigi Nono's works.
 
 * _Con Luigi Dallapiccola_ (1979)
 * _Das atmende Klarsein_ (1980-83)
