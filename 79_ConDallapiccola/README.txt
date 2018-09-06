@@ -26,3 +26,5 @@ Live electronics (stereo)
 http://www.luiginono.it/en/luigi-nono/opere/con-luigi-dallapiccola
 
 Realized by Nicholas Cline (2014)
+
+Control surface: Korg Nanokontrol
